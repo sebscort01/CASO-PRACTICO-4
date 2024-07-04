@@ -14,3 +14,7 @@ El archivo contiene en cada renglón 3 valores, debe de
 graficar los tres valores, use el estilo de gráfica que usted 
 quiera
 
+#### Gráfico obtenido 
+
+![image](https://github.com/sebscort01/CASO-PRACTICO-4/assets/133721782/306f0a02-6f09-4bf6-ab72-731fe2bbd65d)
+
